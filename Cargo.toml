@@ -1,5 +1,7 @@
 [package]
 name = "learn_rust_perceptron"
+description = "first rust learning crate"
+license = "MIT"
 
 version = "0.1.0"
 edition = "2021"
